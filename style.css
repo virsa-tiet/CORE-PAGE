@@ -72,8 +72,7 @@ opacity: 0.1;
     position: relative;
     background-color: antiquewhite;
     box-shadow: 0.4em 0.4em 0.8em #6b6a69,
-                -0.3em -0.3em 1em rgb(104, 106, 106);
-}
+                -0.3em -0.3em 1em rgba(104, 106, 106);
 }
 .box img{
     vertical-align: bottom;
@@ -86,7 +85,7 @@ opacity: 0.1;
     top: 0;
     width: 100%;
     height: 100%;
-    background-color: #178cd0a6;
+    background-color: #23231d9b;
     display: flex;
     justify-content: center;
     align-items: center;
