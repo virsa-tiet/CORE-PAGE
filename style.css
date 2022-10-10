@@ -71,8 +71,9 @@ opacity: 0.1;
     cursor: pointer;
     position: relative;
     background-color: antiquewhite;
-    box-shadow: 0.4em 0.4em 0.8em #178cd0cd,
-                -0.3em -0.3em 1em rgba(39, 133, 187, 0.629);
+    box-shadow: 0.4em 0.4em 0.8em #6b6a69,
+                -0.3em -0.3em 1em rgb(104, 106, 106);
+}
 }
 .box img{
     vertical-align: bottom;
