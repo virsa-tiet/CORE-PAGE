@@ -45,12 +45,12 @@ opacity: 0.1;
 
 }
 .nav-link:hover{
-    color: rgb(254, 254, 254);
+    color: rgb(255, 255, 255);
    
 }
 .dropdown-item:hover{
-    color: rgb(254, 254, 254);
-    color: rgb(254, 254, 254);
+    color: rgb(55,53,52);
+    
 }
 .team h1{
     font-size: 45px;
