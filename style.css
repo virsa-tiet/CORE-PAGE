@@ -45,11 +45,11 @@ opacity: 0.1;
 
 }
 .nav-link:hover{
-    color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255)!important;
    
 }
 .dropdown-item:hover{
-    color: rgb(55,53,52);
+    color: rgb(55,53,52)!important;
     
 }
 .team h1{
